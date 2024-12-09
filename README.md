@@ -29,4 +29,16 @@ a reposiory for solution of leetcode and other code realated problems
 |  |
 | ------- |
 | [3427-special-array-ii](https://github.com/Mafiv/Competitive-Programing-Solutions-Stack/tree/master/3427-special-array-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Mafiv/Competitive-Programing-Solutions-Stack/tree/master/0003-longest-substring-without-repeating-characters) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Mafiv/Competitive-Programing-Solutions-Stack/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Mafiv/Competitive-Programing-Solutions-Stack/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
