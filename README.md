@@ -6,6 +6,7 @@ a reposiory for solution of leetcode and other code realated problems
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Mafiv/Competitive-Programing-Solutions-Stack/tree/master/0189-rotate-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/Mafiv/Competitive-Programing-Solutions-Stack/tree/master/2164-two-best-non-overlapping-events) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Mafiv/Competitive-Programing-Solutions-Stack/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Mafiv/Competitive-Programing-Solutions-Stack/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
@@ -64,4 +65,9 @@ a reposiory for solution of leetcode and other code realated problems
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Mafiv/Competitive-Programing-Solutions-Stack/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/Mafiv/Competitive-Programing-Solutions-Stack/tree/master/0189-rotate-array) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Mafiv/Competitive-Programing-Solutions-Stack/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
