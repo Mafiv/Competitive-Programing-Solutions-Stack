@@ -44,6 +44,7 @@ a reposiory for solution of leetcode and other code realated problems
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mafiv/Competitive-Programing-Solutions-Stack/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0151-reverse-words-in-a-string](https://github.com/Mafiv/Competitive-Programing-Solutions-Stack/tree/master/0151-reverse-words-in-a-string) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Mafiv/Competitive-Programing-Solutions-Stack/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Sliding Window
 |  |
@@ -59,4 +60,8 @@ a reposiory for solution of leetcode and other code realated problems
 |  |
 | ------- |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Mafiv/Competitive-Programing-Solutions-Stack/tree/master/2692-take-gifts-from-the-richest-pile) |
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Mafiv/Competitive-Programing-Solutions-Stack/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
