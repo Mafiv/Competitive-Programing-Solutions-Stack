@@ -7,6 +7,7 @@ a reposiory for solution of leetcode and other code realated problems
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Mafiv/Competitive-Programing-Solutions-Stack/tree/master/0189-rotate-array) |
+| [0474-ones-and-zeroes](https://github.com/Mafiv/Competitive-Programing-Solutions-Stack/tree/master/0474-ones-and-zeroes) |
 | [0917-boats-to-save-people](https://github.com/Mafiv/Competitive-Programing-Solutions-Stack/tree/master/0917-boats-to-save-people) |
 | [2164-two-best-non-overlapping-events](https://github.com/Mafiv/Competitive-Programing-Solutions-Stack/tree/master/2164-two-best-non-overlapping-events) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Mafiv/Competitive-Programing-Solutions-Stack/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -23,6 +24,7 @@ a reposiory for solution of leetcode and other code realated problems
 ## Dynamic Programming
 |  |
 | ------- |
+| [0474-ones-and-zeroes](https://github.com/Mafiv/Competitive-Programing-Solutions-Stack/tree/master/0474-ones-and-zeroes) |
 | [2164-two-best-non-overlapping-events](https://github.com/Mafiv/Competitive-Programing-Solutions-Stack/tree/master/2164-two-best-non-overlapping-events) |
 ## Sorting
 |  |
@@ -50,6 +52,7 @@ a reposiory for solution of leetcode and other code realated problems
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mafiv/Competitive-Programing-Solutions-Stack/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0151-reverse-words-in-a-string](https://github.com/Mafiv/Competitive-Programing-Solutions-Stack/tree/master/0151-reverse-words-in-a-string) |
+| [0474-ones-and-zeroes](https://github.com/Mafiv/Competitive-Programing-Solutions-Stack/tree/master/0474-ones-and-zeroes) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Mafiv/Competitive-Programing-Solutions-Stack/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Sliding Window
 |  |
