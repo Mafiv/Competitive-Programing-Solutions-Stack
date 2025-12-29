@@ -6,6 +6,7 @@ a reposiory for solution of leetcode and other code realated problems
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Mafiv/Competitive-Programing-Solutions-Stack/tree/master/0004-median-of-two-sorted-arrays) |
 | [0189-rotate-array](https://github.com/Mafiv/Competitive-Programing-Solutions-Stack/tree/master/0189-rotate-array) |
 | [0474-ones-and-zeroes](https://github.com/Mafiv/Competitive-Programing-Solutions-Stack/tree/master/0474-ones-and-zeroes) |
 | [0917-boats-to-save-people](https://github.com/Mafiv/Competitive-Programing-Solutions-Stack/tree/master/0917-boats-to-save-people) |
@@ -17,6 +18,7 @@ a reposiory for solution of leetcode and other code realated problems
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Mafiv/Competitive-Programing-Solutions-Stack/tree/master/0004-median-of-two-sorted-arrays) |
 | [2164-two-best-non-overlapping-events](https://github.com/Mafiv/Competitive-Programing-Solutions-Stack/tree/master/2164-two-best-non-overlapping-events) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Mafiv/Competitive-Programing-Solutions-Stack/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Mafiv/Competitive-Programing-Solutions-Stack/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -91,4 +93,8 @@ a reposiory for solution of leetcode and other code realated problems
 |  |
 | ------- |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Mafiv/Competitive-Programing-Solutions-Stack/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Mafiv/Competitive-Programing-Solutions-Stack/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
